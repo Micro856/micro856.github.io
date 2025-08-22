@@ -1,4 +1,11 @@
-title-text {
-  font-family: sans-serif;
-  color: red;
+.Barriecito {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Horizon {
+  font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
