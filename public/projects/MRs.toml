@@ -1,0 +1,8 @@
+layout = "tile"
+
+[[item]]
+title = "Brief"
+subtitle = "Polish translation"
+link = "https://github.com/shonebinu/Brief/pull/6"
+image = "https://github.com/shonebinu/Brief/raw/refs/heads/main/data/icons/hicolor/scalable/apps/io.github.shonebinu.Brief.svg"
+rotate = true

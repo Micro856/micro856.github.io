@@ -1,0 +1,19 @@
+layout = "card"
+
+[[item]]
+title = "GNOME"
+link = "https://gnome.org"
+content = "A thriving community of contributors and supporting organizations. The project is made up of participants from across the globe, and includes volunteers and paid  contributors. Their work encompasses every aspect of the software development process, from design, through to development, testing, and documentation. The GNOME community is backed and supported by the non-profit [GNOME Foundation](https://foundation.gnome.org/).\n# [Donate](https://donate.gnome.org)"
+image = "https://l10n.gnome.org/static/img/gnome-logo.svg"
+
+[[item]]
+title = "KDE"
+link = "https://kde.org"
+content = "An international community developing the world’s finest free and open-source software. KDE’s software powers NASA, CERN, Mercedes electric vehicles, the Steam Deck, your favorite YouTuber, and schools, governments, and offices throughout the world. Their software breathes new life into old devices, and turbo-charges new ones. Anyone is welcome to use their software for free, or to help build it!\n# [Donate](https://kde.org/donate)"
+image = "https://community.kde.org/images.community/c/cd/Mascot-konqi-kde30-logo.png"
+
+[[item]]
+title = "Bazaar"
+link = "https://usebazaar.org/"
+content = "Bazaar is a new app store for GNOME with a focus on discovering and installing apps and add-ons from Flatpak remotes, particularly [Flathub](https://flathub.org). The UX emphasizes supporting the developers who make the Linux desktop possible. Bazaar features a \"curated\" tab that can be configured by distributors. Bazaar implements the gnome-shell search provider dbus interface. A krunner [plugin](https://github.com/bazaar-org/krunner-bazaar) is available for use on the KDE Plasma desktop.<a href=\"https://ko-fi.com/kolunmi\"> <img class=\"no-lightense\" src=\"https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white\"> </a>"
+image = "https://gitlab.gnome.org/World/bazaar/-/raw/main/data/icons/hicolor/scalable/apps/io.github.kolunmi.Bazaar.svg"

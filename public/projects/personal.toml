@@ -1,0 +1,26 @@
+layout = "tile"
+
+[[item]]
+title = "Kitties"
+subtitle = "A trial to make a MacOS application"
+link = "/projects/kitties"
+image = "/img/Kitties.svg"
+rotate = true
+
+[[item]]
+title = "Larimar"
+subtitle = "Personal Fedora image"
+link = "https://github.com/Micro856/larimar"
+
+[[item]]
+title = "Larimar Next"
+subtitle = "Un-personalized Larimar"
+link = "https://github.com/Micro856/larimar-next"
+
+[[item]]
+title = "Breeze+"
+subtitle = "More icons for Breeze"
+link = "https://github.com/Micro856/breeze-plus"
+image = "https://github.com/Micro856/breeze-plus/raw/refs/heads/main/apps/48/kmahjongg.svg"
+rotate = true
+

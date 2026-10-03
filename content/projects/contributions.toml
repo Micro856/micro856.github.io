@@ -1,0 +1,50 @@
+layout = "tile"
+
+[[item]]
+title = "Bazaar"
+subtitle = "Polish translation"
+link = "https://usebazaar.org"
+image = "https://gitlab.gnome.org/World/bazaar/-/raw/main/data/icons/hicolor/scalable/apps/io.github.kolunmi.Bazaar.svg"
+rotate = true
+
+[[item]]
+title = "KRunner Bazaar Plugin"
+subtitle = "Polish translation"
+link = "https://github.com/bazaar-org/krunner-bazaar"
+image = "https://gitlab.gnome.org/World/bazaar/-/raw/main/data/icons/hicolor/scalable/apps/io.github.kolunmi.Bazaar.svg"
+rotate = true
+
+[[item]]
+title = "DistroShelf"
+subtitle = "Polish translation"
+link = "https://github.com/ranfdev/DistroShelf"
+image = "https://github.com/ranfdev/DistroShelf/raw/refs/heads/main/data/icons/hicolor/scalable/apps/com.ranfdev.DistroShelf.svg"
+rotate = true
+
+[[item]]
+title = "Kontainer"
+subtitle = "Polish translation & Breeze-like Icon"
+link = "https://invent.kde.org/denysmb/Kontainer"
+image = "https://invent.kde.org/denysmb/Kontainer/-/raw/master/src/assets/io.github.DenysMb.Kontainer.svg"
+rotate = true
+
+[[item]]
+title = "Whisky (frankea's fork)"
+subtitle = "Added a few lines and improved quality"
+link = "https://frankea.github.io/Whisky/"
+image = "https://raw.githubusercontent.com/frankea/Whisky/refs/heads/main/WhiskyThumbnail/Icons.xcassets/Icon.imageset/512R512x1.png"
+rotate = true
+
+[[item]]
+title = "Bluefin"
+subtitle = "Bazaar config Polish translation"
+link = "https://github.com/projectbluefin/common/blob/main/system_files/bluefin/etc/bazaar/curated.yaml"
+image = "https://projectbluefin.io/favicons/favicon.svg"
+rotate = true
+
+[[item]]
+title = "ReadyMade"
+subtitle = "Polish translation"
+link = "https://github.com/FyraLabs/readymade"
+image = "https://avatars.githubusercontent.com/u/102442142"
+rotate = true
