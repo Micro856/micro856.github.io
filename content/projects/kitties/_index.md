@@ -18,7 +18,7 @@ Kitties is an app I made trying to understand XCode. It's rather simple, you can
 I learned a bit of Swift with the Swift Playground app by Apple. Then I used the Swift Docs to find what else I need, the docs have nice code snippets that are ready to be used. For API processing I used [this video](https://www.youtube.com/watch?v=ERr0GXqILgc).
 
 # Download
-For now you need to compile it from the [source code](https://github.com/Micro856/Kitties) as I forgot to upload a .dmg with the release. An early version of Kitties is bundled as an extra with [Google Balls MacOS Port](https://github.com/weeniemount/googleballs-app/releases/tag/1.9.0), which can be downloaded from [here](https://github.com/weeniemount/googleballs-app/releases/download/1.9.0/GoogleBalls-swift.dmg).
+ An early version of Kitties is bundled as an extra with [Google Balls MacOS Port](https://github.com/weeniemount/googleballs-app/releases/tag/1.9.0), which can be downloaded from [here](https://github.com/weeniemount/googleballs-app/releases/download/1.9.0/GoogleBalls-swift.dmg). I had the source code uploaded to GitHub, but for some reason it uploaded the very first commit, which was the base Xcode Hello World app, so well Kitties source code became lost media.
 
 # To Do List
 - Add the ability to download the displayed image
