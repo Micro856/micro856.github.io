@@ -19,7 +19,7 @@ I learned a bit of Swift with the Swift Playground app by Apple. Then I used the
 
 # Download
 The source code is on my GitHub: [https://github.com/Micro856/Kitties](https://github.com/Micro856/Kitties)
-You can download newest release from Releases: [https://github.com/Micro856/Kitties/releases/tag/2.0](https://github.com/Micro856/Kitties/releases/tag/2.0
+You can download newest release from Releases: [https://github.com/Micro856/Kitties/releases/tag/2.0](https://github.com/Micro856/Kitties/releases/tag/2.0)
 
 # Ancient version history
 An early version of Kitties is bundled as an extra with [Google Balls MacOS Port](https://github.com/weeniemount/googleballs-app/releases/tag/1.9.0), which can be downloaded from [here](https://github.com/weeniemount/googleballs-app/releases/download/1.9.0/GoogleBalls-swift.dmg). I had the source code uploaded to GitHub, but for some reason it uploaded the very first commit, which was the base Xcode Hello World app, so well Kitties source code became lost media. More on how I restored Kitties is on [my blog](/blog/how-i-remade-kitties).
