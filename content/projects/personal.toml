@@ -8,6 +8,13 @@ image = "/img/Kitties.svg"
 rotate = true
 
 [[item]]
+title = "KittiesGtk"
+subtitle = "View random images of felines"
+link = "https://github.com/Micro856/KittiesGtk"
+image = "/img/KittiesGtk.svg"
+rotate = true
+
+[[item]]
 title = "Larimar"
 subtitle = "Personal Fedora image"
 link = "https://github.com/Micro856/larimar"
